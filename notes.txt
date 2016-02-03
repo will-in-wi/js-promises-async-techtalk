@@ -1,0 +1,8 @@
+weird method. Demonstrate passing functions as parameters.
+Start with iterators. iterator.js
+Move to generators. generator.js
+Show ajax. ajax.js
+Next, promises. promises.js
+Use ajax as an example of promises. ajax_promises.js
+
+Combine promises and generators with generator2.js
